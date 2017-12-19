@@ -1,0 +1,9 @@
+{
+  "name": "build-script",
+  "version": "0.0.0",
+  "description": "build-script",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}
